@@ -1,6 +1,6 @@
-﻿token=التوكن 
-owner=ادي بتعك 
-prefix= 1
-game= !thelp
+token=NTE3ODI1MTI0MjM0NDI4NDQ2.DuiV7A.rZTtC-B2wxpqKgboAfFjCoUSkAI
+owner=489379054584201247 
+prefix= DB
+game= الدلاع راه غالي
 stayinchannel=true
 songinstatus=true 
